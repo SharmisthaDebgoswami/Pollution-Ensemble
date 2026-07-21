@@ -13,11 +13,6 @@ A Python-based data analysis project exploring pharmaceutical pollutants in the 
 - Build predictive machine learning models.
 - Visualize environmental pollution patterns.
 
-## Dataset
-- Source:
-- Number of samples:
-- Features:
-- Target variable:
 
 ## Methods
 - Data preprocessing
